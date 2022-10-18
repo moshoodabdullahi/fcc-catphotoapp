@@ -8,7 +8,7 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
+- HTML5 ordered list,unordered list,section,form,
 - frameworks,
 - technologies used
 
